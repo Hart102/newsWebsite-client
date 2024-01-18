@@ -2,4 +2,4 @@
 
 Designed with React.js and tailwindcss
 
-preview: https://dribble-stories.vercel.app/
+preview: https://news-website-three-fawn.vercel.app/
