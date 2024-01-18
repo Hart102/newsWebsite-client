@@ -75,9 +75,12 @@ const Navbar = () => {
           </form>
 
           <div className="flex1 items-center gap-10">
-            <button className="py-2 px-4 text-white rounded-full font-bold hover:text-neutral-700">
-              Share work
-            </button>
+            <Link
+              to="/blog/login"
+              className="py-2 px-4 text-white rounded-full font-bold hover:text-neutral-500"
+            >
+              Log in
+            </Link>
           </div>
         </div>
       </nav>
